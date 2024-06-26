@@ -1,5 +1,9 @@
 Operadores Aritméticos
 
+** elevado
+// divisão inteira
+% resto da divisão
+
 Ordem de precedência
 
 1 = ()

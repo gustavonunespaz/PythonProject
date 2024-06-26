@@ -1,0 +1,6 @@
+utilizando módulos
+
+import math
+from math import sqrt
+
+math.sqrt
