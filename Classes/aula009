@@ -1,0 +1,3 @@
+frase.split() - Divisão de cada palavra na string. Cada palavra é colocada em uma nov lista
+'-'.join(frase) - junta cada palavra com um traço entre elas, ou com o caractere que colocar dentro da string ''.
+
