@@ -11,3 +11,11 @@ credito3 = float(input('Qual o valor do cartão de crédito Renner? '))
 total = luz + agua + internet + credito1 + credito2 + credito3
 print('O valor total das contas é de: ', total)
 print('Seu saldo atual é de: ', saldo - total)
+
+if saldo - total > 0:
+    print('Seu saldo atual é positivo')
+elif saldo - total == 0:
+    print('Seu saldo atual é igual a zero')
+else:
+    print('Seu saldo atual é negativo')
+
